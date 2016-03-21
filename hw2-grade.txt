@@ -1,0 +1,11 @@
+Q1. (review score comparison) :         20/20
+Q2. (visualization and analysis) :      5/10 (very inconclusive choice of visualization)
+Q3. (clustering) :                      15/30  (incorrect clustering, correct clusters shouldn't overlap as they are different
+                                                cullinary districts)
+Q4. (cluster visualization) :           10/15 (cluster labels missing)
+Q5. (outlier detection) :               0/15
+Q6. (analysis) :                        10/10
+
+Late Penalty (if any) :
+
+Total :                                 60/100
